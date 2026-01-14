@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on: building portfolio projects focused on data analytics and getting a data related job<br><br>👯 I’m looking to collaborate on: entry-level projects involving data analysis, Python , SQL databases, or simple machine learning models<br><br>🤝 I’m looking for help with: improving and gaining real-world experience through open-source or team projects<br><br>🌱 I’m currently learning: Python, SQL, data analytics concepts and data visualization tools<br><br>💬 Ask me about: my learning journey in computer science, transitioning into data analytics (used to be a biology major)<br><br>⚡ Fun fact: I enjoy structured planning but still love leaving room for spontaneity and I learn best by hands on experience
+Hi, I'm Zoë 🐾<br><br>🔭 I’m currently working on: building portfolio projects focused on data analytics and getting a data related job<br>👯 I’m looking to collaborate on: entry-level projects involving data analysis, Python , SQL databases, or simple machine learning models<br>🤝 I’m looking for help with: improving and gaining real-world experience through open-source or team projects<br>🌱 I’m currently learning: Python, SQL, data analytics concepts and data visualization tools<br>💬 Ask me about: my learning journey in computer science, transitioning into data analytics (used to be a biology major)<br>⚡ Fun fact: I enjoy structured planning but still love leaving room for spontaneity and I learn best by hands on experience
 
 
 ## 🌐 Socials:
@@ -19,4 +19,5 @@
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@ZoëAnti) 
 
   
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
