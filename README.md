@@ -1,5 +1,6 @@
 # 💫 About Me:
 Hi, I'm Zoë 🐾
+
 🔭 I’m currently working on: building portfolio projects focused on data analytics and getting a data related job<br>👯 I’m looking to collaborate on: entry-level projects involving data analysis, Python , SQL databases, or simple machine learning models<br>🤝 I’m looking for help with: improving and gaining real-world experience through open-source or team projects<br>🌱 I’m currently learning: Python, SQL, data analytics concepts and data visualization tools<br>💬 Ask me about: my learning journey in computer science, transitioning into data analytics (used to be a biology major)<br>⚡ Fun fact: I enjoy structured planning but still love leaving room for spontaneity and I learn best by hands on experience
 
 
