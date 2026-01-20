@@ -16,7 +16,7 @@ Hi, I'm Zoë 🐾<br><br>🔭 I’m currently working on: building portfolio pro
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@ZoëAnti) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@zoeanti) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
